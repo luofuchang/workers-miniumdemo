@@ -1,0 +1,4 @@
+name = "workers-miniumdemo"
+main = "src/index.ts"
+compatibility_date = "2026-05-23"
+workers_dev = true
